@@ -1,0 +1,51 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+*{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.3em;
+    width: 800px;
+}
+
+*{
+    line-height: 1.4em;
+}
+
+*{
+    color: rgb(71, 68, 68);
+}
+
+.rougefoncé{
+    color: rgb(160, 15, 15);
+    font-weight: bolder;
+}
+
+.rouge{
+    color: rgb(160, 15, 15);
+}
+
+.petit{
+    font-size: 0.4em;
+}
+
+.bleu{
+    color: blue;
+}
+
+.violet{
+    color: rgb(65, 5, 65);
+}
+
+.gras{
+    font-weight: bold;
+}
+
+.orthographe{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul{
+    color: turquoise;
+}
